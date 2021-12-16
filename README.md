@@ -49,3 +49,9 @@ http://localhost
 
 - Base image
   - [mysql/mysql-server](https://hub.docker.com/r/mysql/mysql-server):8.0
+
+### 画像の設定
+
+1. docker compose exec app php artisan storage:link
+2. storage/app/public/productsフォルダに画像を保存する
+3. storage/app/public/shopsフォルダに画像を保存する
