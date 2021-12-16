@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "yamadaharutou/laravel_ec",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
@@ -58,6 +58,12 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
+    "authors": [
+        {
+            "name": "TarouTanakaYokohama",
+            "email": "haruto.916.041@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
