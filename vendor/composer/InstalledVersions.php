@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a3fd63b6d5027640e3835ab250899add4202c897',
+    'reference' => '6caa91941a2a79a167561156a5ca0889817e6700',
     'name' => 'yamadaharutou/laravel_ec',
   ),
   'versions' => 
@@ -123,7 +123,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'a3fd63b6d5027640e3835ab250899add4202c897',
+      'reference' => '6caa91941a2a79a167561156a5ca0889817e6700',
     ),
   ),
 );
