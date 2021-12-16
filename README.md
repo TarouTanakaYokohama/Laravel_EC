@@ -49,3 +49,9 @@ http://localhost
 
 - Base image
   - [mysql/mysql-server](https://hub.docker.com/r/mysql/mysql-server):8.0
+
+### 画像の設定
+
+1. php artisan storage:link で storageフォルダにリンク後、
+2. storage/app/public/productsフォルダに画像を保存する
+3. storage/app/public/shopsフォルダ画像を保存する
