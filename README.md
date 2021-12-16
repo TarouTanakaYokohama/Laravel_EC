@@ -52,6 +52,6 @@ http://localhost
 
 ### 画像の設定
 
-1. php artisan storage:link で storageフォルダにリンク後、
+1. docker compose exec app php artisan storage:link
 2. storage/app/public/productsフォルダに画像を保存する
 3. storage/app/public/shopsフォルダ画像を保存する
