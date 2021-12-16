@@ -54,4 +54,4 @@ http://localhost
 
 1. docker compose exec app php artisan storage:link
 2. storage/app/public/productsフォルダに画像を保存する
-3. storage/app/public/shopsフォルダ画像を保存する
+3. storage/app/public/shopsフォルダに画像を保存する
