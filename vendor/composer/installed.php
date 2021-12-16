@@ -6,20 +6,11 @@
     'aliases' => 
     array (
     ),
-    'reference' => '842dcba7074debb02819e96c10d83143c4114c14',
-    'name' => '__root__',
+    'reference' => '22513c6cf5ea29b0cb8fa31f3812c8397235e952',
+    'name' => 'yamadaharutou/laravel_ec',
   ),
   'versions' => 
   array (
-    '__root__' => 
-    array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '842dcba7074debb02819e96c10d83143c4114c14',
-    ),
     'doctrine/inflector' => 
     array (
       'pretty_version' => '2.0.4',
@@ -355,6 +346,15 @@
       array (
       ),
       'reference' => '80953678b19901e5165c56752d087fc11526017c',
+    ),
+    'yamadaharutou/laravel_ec' => 
+    array (
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '22513c6cf5ea29b0cb8fa31f3812c8397235e952',
     ),
   ),
 );

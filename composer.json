@@ -1,5 +1,12 @@
 {
+    "name": "yamadaharutou/laravel_ec",
+    "authors": [
+        {
+            "name": "TarouTanakaYokohama",
+            "email": "haruto.916.041@gmail.com"
+        }
+    ],
     "require": {
-        "laravel/ui": "^3.4"
+        "phpunit/phpunit": "3.7.*"
     }
 }
